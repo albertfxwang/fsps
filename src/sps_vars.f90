@@ -21,11 +21,11 @@ MODULE SPS_VARS
 
 !------set the isochrone library------!
 #ifndef MIST
-#define MIST 1
+#define MIST 0
 #endif
 
 #ifndef PADOVA
-#define PADOVA 0
+#define PADOVA 1
 #endif
 
 #ifndef PARSEC
